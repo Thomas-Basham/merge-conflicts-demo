@@ -1,5 +1,6 @@
 
-# merge-conflicts-demo
+## class about git merges 
+
 
 ## here is some text from Thomas
 
@@ -10,9 +11,12 @@ more stuff from Thomas
 
 we need this stuff too from Thomas
 
+- we need this stuff too from Thomas
+
+
 # September 20: merge-conflicts-demo
 
-- this is a cool lab
+- this is a great lab
 
 - code from thomas
 
