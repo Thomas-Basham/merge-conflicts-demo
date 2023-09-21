@@ -12,3 +12,8 @@ we need this stuff too from Thomas
 - this is a cool lab
 - Git is IMPORTANT 
 
+more code from Thomas
+
+Some more code from Thomas
+
+Thomas code here
